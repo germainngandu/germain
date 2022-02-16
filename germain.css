@@ -1,0 +1,11 @@
+
+		p {color: blue; font-weight:bold; font-size: 24px;
+        }
+    
+    h3 {color: green;
+        border: 5px solid red; background: white;
+        width: fit-content;
+        }
+    body{
+        background: yellow;
+        }
